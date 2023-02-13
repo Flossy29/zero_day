@@ -1,2 +1,9 @@
-#My first Readme file
-**This file is mandatory in projects**
+#vagrant
+
+##learning objectives
+
+Explain to everyone without the help of google
+
+*What is virtual machine
+
+*What is vagrant
